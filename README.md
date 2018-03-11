@@ -1,2 +1,2 @@
 # Brahma
-An ansible based EC2 environment provisioning tool
+An Ansible based EC2 environment provisioning tool
